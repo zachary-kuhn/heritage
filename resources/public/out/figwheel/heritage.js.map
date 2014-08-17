@@ -1,7 +1,0 @@
-{"version":3,
- "file":
- "/Users/zachary/Projects/heritage/resources/public/out/figwheel/heritage.js",
- "sources":["heritage.cljs"],
- "lineCount":8,
- "mappings":";AAAA;;;;AAGA,AAACA",
- "names":["figwheel.client/watch-and-reload"]}
